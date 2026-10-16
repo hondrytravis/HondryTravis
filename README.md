@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash          1 hr 20 mins          █████░░░░░░░░░░░░░░░░░░░░   20.35 %
-HTML          1 hr 5 mins           ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Markdown      56 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-Image (png)   53 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-JSON          44 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+HTML          1 hr 2 mins           █████████▓░░░░░░░░░░░░░░░   38.38 %
+Image (png)   27 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
+JavaScript    25 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
+Markdown      18 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+JSON          17 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
 ```
 
 <!--END_SECTION:waka-->
