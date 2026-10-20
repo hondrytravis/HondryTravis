@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown      2 hrs 21 mins         ████████▒░░░░░░░░░░░░░░░░   32.75 %
+Python        1 hr 53 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+TypeScript    51 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+JSON          44 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Image (png)   37 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
 ```
 
 <!--END_SECTION:waka-->
